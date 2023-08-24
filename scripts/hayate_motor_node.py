@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 '''
  * hayate_imu_node.py
  *
@@ -30,8 +31,6 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  '''
-
-#!/usr/bin/env python
 import rospy
 from hayate_motor_ros.msg import *
 from hayate_imu_ros.msg import *
