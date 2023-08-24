@@ -38,6 +38,6 @@ PWM pulse by oscilloscope.
 
 <img src="https://github.com/soarbear/hayate_motor_ros/blob/master/pid_pwm_wave_by_oscilloscope.jpg" alt="pid_pwm_wave_by_oscilloscope" title="pid_pwm_wave_by_oscilloscope" />
 
-# For more information...
+# For more in Japanese
 
 <a href="https://memo.soarcloud.com/encoder-motor-pid-control-with-hayate_imu/">https://memo.soarcloud.com/encoder-motor-pid-control-with-hayate_imu/</a>
