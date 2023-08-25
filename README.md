@@ -1,15 +1,15 @@
 # hayate_motor_ros
 
-Using 9axis-imu hayate_imu in this project to evaluate whether the A/B phase pulses of the encoder, which is the basis for calculating the rotation speed of motor output shaft, are correctly measured or not, and to evaluate the accuracy and accuracy of DC motor PID control.
+Using 9axis-imu hayate_imu in this project to evaluate whether the A/B phase pulses of the encoder, which is the basis for calculating the rotation speed of motor output 
+shaft, are correctly measured or not, and to evaluate the accuracy and accuracy of DC motor PID control.
+
+# Required Hardware
+
+DC brush motor, Magnetic encoder, Arduino Leonardo, Adafruit Motor Shield v1.2 compatible board, 9-axis sensor hayate_imu v3.2, Raspberry Pi 3 Model-B, Lenovo L560
 
 # Required ROS packages or LIBs
 
-rosserial
-hayate_motor_ros
-hayate_imu_ros
-ros_lib by rosserail_arduino with Arduino IDE
-Adafruit-Motor-Shield-library-leonardo
-arduino_node(ino) on Leonardo with Arduino IDE 
+rosserial, hayate_motor_ros, hayate_imu_ros, ros_lib by rosserail_arduino with Arduino IDE, Adafruit-Motor-Shield-library(modified, Timer3A/D5-pin/PWM frequency changed to 4KHz), arduino_node(ino) on Leonardo with Arduino IDE
 
 # ROS node interaction status
 
