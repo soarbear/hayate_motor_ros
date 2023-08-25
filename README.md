@@ -5,7 +5,7 @@ shaft, are correctly measured or not, and to evaluate the accuracy and accuracy 
 
 # Required Hardware
 
-DC brush motor, Magnetic encoder, Arduino Leonardo, Adafruit Motor Shield v1.2 compatible board, 9-axis sensor hayate_imu v3.2, Raspberry Pi 3 Model-B, Lenovo L560
+DC brush motor, Magnetic encoder, Arduino Leonardo, Adafruit Motor Shield v1.2 compatible board, 9-axis sensor hayate_imu v3.2, Raspberry Pi 3 or 4, PC
 
 # Required ROS packages or LIBs
 
